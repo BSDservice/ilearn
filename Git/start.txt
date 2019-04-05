@@ -12,12 +12,16 @@
         
         Настройки на каждом следующем уровне подменяют настройки из предыдущих уровней
         Настройки пользователя*
-            git config --global user.name "John Doe"
-            git config --global user.email johndoe@example.com
-        Выбор редактора
-            git config --global core.editor emacs
-        Утилита сравнения
-            git config --global merge.tool vimdiff
-        Проверка настроек
-            git config --list
-            git config parametr
+    
+    git config --global user.name "John Doe"
+    git config --global user.email johndoe@example.com
+    
+    Выбор редактора
+    git config --global core.editor emacs
+    
+    Утилита сравнения
+    git config --global merge.tool vimdiff
+    
+    Проверка настроек
+    git config --list
+    git config parametr
